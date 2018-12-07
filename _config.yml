@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Katie Link"
 description              : "."
 url                      : "katielink.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/about/"
 repository               : katielink/katielink.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -154,6 +154,7 @@ include:
   - .htaccess
   - _pages
   - ["_pages"]
+  - /_pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -277,14 +278,14 @@ compress_html:
 
 
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: # true
+#       share: true
