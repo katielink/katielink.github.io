@@ -1,7 +1,15 @@
 ---
-permalink: /
+permalink: /about/
 title: "about"
 excerpt: "about me"
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
 
