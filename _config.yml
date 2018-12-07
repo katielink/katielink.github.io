@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "katie link"
+title                    : "katie link`
 title_separator          : "-"
 name                     : "Katie Link"
 description              : "."
@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:link.k@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://katielink.github.io"
@@ -129,8 +129,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
       # url:
     - # label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
@@ -138,11 +138,11 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/katielink"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
       # url: "https://github.com/katielink"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
       # url:
     - # label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
@@ -153,6 +153,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -287,4 +288,11 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+  
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
