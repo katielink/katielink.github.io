@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Katie Link"
+  navbar:
+    left:
+      - text: "bio"
+        file: bio.qmd
+      - text: "papers"
+        file: papers.qmd
+      - text: "talks"
+        file: talks.qmd
+      - text: "media"
+        file: media.qmd
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+
+
+

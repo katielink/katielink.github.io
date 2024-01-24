@@ -1,0 +1,8 @@
+---
+title: "Media"
+---
+
+For media requests, please contact press {at} huggingface.co
+
+* "ChatGPT is is poised to upend medical information. For better and worse." *USA Today* [[link](https://www.usatoday.com/story/news/health/2023/02/26/chatgpt-medical-care-doctors/11253952002/)]
+* "Microsoft released an AI that answers medical questions, but it's widely inaccurate" *Futurism* [[link](https://futurism.com/neoscope/microsoft-ai-biogpt-inaccurate)]

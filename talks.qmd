@@ -1,0 +1,18 @@
+---
+title: "Invited Talks and Panels"
+---
+
+* “Using Big Data to Help Neurosurgeons and their Patients.” Congress of Neurological Surgeons, San Francisco, CA. October 2019.					
+* “Existential Medicine: Computational Medicine.” Invited Moderator; New Lab/JLABS (Johnson&Johnson Innovation), New York, NY. June 2019.
+* “How Deep Learning Can Improve Medical Outcomes Now.” O’Reilly AI Conference, New York, NY. April 2019.
+* “Artificial Intelligence in Health Professions Education.” Invited Panelist, National Academies of Science, Engineering, and Medicine (NASEM). April 2023.
+* “Generative AI in Healthcare”. Invited Speaker, 8VC Healthcare Summit. Austin, TX. May 2023.
+* “Generative AI in Healthcare”. Invited Speaker and Panelist, Stanford AIMI Symposium, Palo Alto, CA. June 2023.
+* Invited panelist, AI in Bio Summit, New York Stock Exchange, New York, NY. July 2023.
+* “Open Data and AI in Biology”, Invited Speaker, Sage BioNetworks, Seattle, WA. July 2023.
+* “AI in Medicine” Invited Speaker, Healthcare at Hopkins Alumni Event, New York, NY. September 2023.
+* “LLMs in Medicine.” Invited Speaker, Digital Neurosurgery Conference, Palo Alto, CA. October 2023.
+* “AI in Medicine: Past, Present, and Future.” Invited Speaker, TV Chosun Global Leaders Forum, Seoul, South Korea. November 2023.
+* “Generative AI in Healthcare.” Invited Speaker and Panelist, Stanford AIMI AI + HEALTH Conference, Palo Alto, CA. December 2023.
+* “Working with LLMs in the Hugging Face Ecosystem.” Federal Drug Administration (FDA) Scientific Computing Board. January 2024.
+* “LLMs in Healthcare.” Invited Panelist, Symposium on Artificial Intelligence in Learning Health Systems (SAIL), Río Grande, Puerto Rico. May 2024.

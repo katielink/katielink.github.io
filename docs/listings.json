@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/faq/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/ai_meded/ai_meded.html",
+      "/projects/nyumets/nyumets.html"
+    ]
+  }
+]

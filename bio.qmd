@@ -1,0 +1,29 @@
+---
+title: "Katherine (Katie) E. Link"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/katieelink
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/katie-e-link
+
+---
+## Bio
+Katie Link is a Machine Learning Engineer at Hugging Face, where she leads healthcare and life sciences applications of artificial intelligence. Her work at Hugging Face aims to democratize the responsible research and development of biomedical machine learning artifacts, including models and datasets. Prior to Hugging Face, she led artificial intelligence research at NYU Langone Hospital, creating the largest open dataset of magnetic resonance imaging (MRI) for brain metastases and developing novel deep learning algorithms for tracking cancer progression. She is currently based in New York City and is on leave as a medical student at the Icahn School of Medicine at Mount Sinai. In her spare time, she also works on AI education initiatives for medical trainees and physicians. Prior to medical school, she was an AI Resident at Google X. She holds a bachelor’s degree in Neuroscience with a minor in Computer Science from Johns Hopkins University.
+
+## Experience
+* Machine Learning Engineer, Hugging Face, 2023-Present
+* ML Research Engineer, NYU Langone Health, 2021-2023
+* AI Resident, Google X, 2019-2020
+* Data Analyst, Allen Institute for Brain Science, 2018-2019
+
+## Education
+* B.S. Johns Hopkins University, 2014-2017
+* M.D. Icahn School of Medicine at Mount Sinai, 2020-Present 
+
+## Personal Life
+Katie lives in NYC with her partner Daniel and their corgi Brody.

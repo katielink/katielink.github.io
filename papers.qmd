@@ -1,0 +1,43 @@
+---
+title: "Papers and Abstracts"
+---
+
+For the most up-to-date list, please see my [Google Scholar](https://scholar.google.com/citations?user=bIAmWgUAAAAJ).
+
+# Papers
+* Link, K.E., et al. (Under revisions, 2024) Longitudinal deep neural networks for assessing metastatic brain cancer on a large open benchmark. Nature Communications.
+* Link, K.E., Jiang, J. et al. (Accepted, 2024) Evaluation of Patient Outcomes of a Student-Run Free Clinic in East Harlem. BMC Medical Education.
+* Schwartz, I. S., Link, K. E., Daneshjou, R. & Cortés-Penfield, N. Black Box Warning: Large Language Models and the Future of Infectious Diseases Consultation. Clin. Infect. Dis. (2023) doi:10.1093/cid/ciad633
+* Moawad, A.W., Janas, A., Baid, U., Ramakrishnan, D., Jekel, L., Krantchev, K., Moy, H., Saluja, R., Osenberg, K., Wilms, K., … Link, K.E. et al. (2023). The Brain Tumor Segmentation (BraTS-METS) Challenge 2023: Brain Metastasis Segmentation on Pre-treatment MRI. arXiv [q-bio.OT].
+* Schnurman, Z., Mashiach, E., Link, K.E., Donahue, B., Sulman, E., Silverman, J., Golfinos, J.G., Oermann, E.K., and Kondziolka, D. (2023). Causes of Death in Patients With Brain Metastases. Neurosurgery.
+* Yang, Y., Mei, X., Robson, P., Marinelli, B., Huang, M., Doshi, A., Jacobi, A., Link, K., Yang, T., Cao, C., et al. (In press, 2022). RadImageNet: A Large-scale Radiologic Dataset for Enhancing Deep Learning Transfer Learning Research. Radiology: Artificial Intelligence.
+* S.S., Gologorsky, R., Neifert, S., Chen, V., Link, K.E., Costa, A., Oermann, E.K. (In press, 2022) Deep learning driven dimensionality reduction for data exploration and matching of clinical trial data. Mathematical Biosciences and Engineering 19 (7), 6795-6813.
+* Berg, J., Sorensen, S.A., Ting, J.T., Miller, J.A., Chartrand, T., Buchin, A., Bakken, T.E., Budzillo, A., Dee, N., Ding, S.-L., … Link, K.E. et al. (2021). Human neocortical expansion involves glutamatergic neuron diversification. Nature 598, 151–158.					
+* Tabacof, L., Wood, J., Mohammadi, N., Link, K.E., Tosto-Mancuso, J., Dewil, S., Breyman, E., Nasr, L., Kellner, C., and Putrino, D. (2021). Remote Patient Monitoring Identifies the Need for Triage in Patients with Acute COVID-19 Infection. Telemed. J. E. Health.	
+* Honke, G., Higgins, I., Thigpen, N., Miskovic, V., Link, K., Gupta, P., Klawohn, J., and Hajcak, G. (2020). Representation learning for improved interpretability and classification accuracy of clinical factors from EEG. International Conference for Learning Representations (ICLR).		
+* Gouwens, N.W., Sorensen, S.A., Baftizadeh, F., Budzillo, A., Lee, B.R., Jarsky, T., Alfiler, L., Baker, K., Barkan, E., Berry, K., … Link, K.E. et al. (2020). Integrated Morphoelectric and Transcriptomic Classification of Cortical GABAergic Cells. Cell 183, 935–953.e19.					
+* Zorowitz, S., Rockhill, A.P., Ellard, K.K., Link, K.E., Herrington, T., Pizzagalli, D.A., Widge, A.S., Deckersbach, T., and Dougherty, D.D. (2019). The Neural Basis of Approach-Avoidance Conflict: A Model Based Analysis. eNeuro 6.	
+* Gouwens, N.W., Sorensen, S.A., Berg, J., Lee, C., Jarsky, T., Ting, J., Sunkin, S.M., Feng, D., Anastassiou, C.A., Barkan, E., … Link K.E. et al. (2019). Classification of electrophysiological and morphological neuron types in the mouse visual cortex. Nat. Neurosci. 22, 1182–1195.	
+* Lin, D., Lin, Y., Snoussi, K., Ye, X., Marsman, A., Link, K., Redmond, K., Barker, P., and Kleinberg, L. (2017). Echo-planar MR Spectroscopic Imaging in High Grade Glioma: Effect of Radiotherapy Treatment (RT). Neuro. Oncol. 19, vi164.
+* Sloan, L., Lin, D.D.M., Shen, C., Redmond, K.J., Bettegowda, C., Grimm, J., Link, K., Lim, M., and Kleinberg, L.R. (2017). Rate of intralesional hemorrhage in hypofractionated stereotactic radiosurgery for brain metastases in patients with metastatic melanoma treated with concurrent immunotherapy. Int. J. Radiat. Oncol. Biol. Phys. 99, E109.		
+* Lin, D.D.M., Lin, Y., Link, K., Marsman, A., Zessler, A., Usama, S.M., Sheriff, S., Maudsley, A.A., Kleinberg, L.R., and Barker, P.B. (2016). Echoplanar Magnetic Resonance Spectroscopic Imaging Before and Following Radiation Therapy in Patients With High-Grade Glioma. Int. J. Radiat. Oncol. Biol. Phys. 96, E133–E134.		
+* Shen, C., Lin, D.D.M., Redmond, K.J., Link, K., Kummerlowe, M., Douglass, J., Lipson, E.J., Sharfman, W., Bettegowda, C., Lim, M., et al. (2016). Imaging and Clinical Profile Following Concurrent Stereotactic Radiation and Immune Therapy for Melanoma Brain Metastases: Preliminary Results. Int. J. Radiat. Oncol. Biol. Phys. 96, E134.
+* Widge, A.S., Zorowitz, S., Link, K., Miller, E.K., Deckersbach, T., Eskandar, E.N., and Dougherty, D.D. (2016). Ventral Capsule/Ventral Striatum Deep Brain Stimulation Does Not Consistently Diminish Occipital Cross-Frequency Coupling. Biol. Psychiatry 80, e59–e60.	
+* Widge, A., Zorowitz, S., Link, K., Tang, W., Deckersbach, T., Miller, E., and Dougherty, D. (2015). Behavioral and Neural Biomarkers of Improved Top-Down Control during Ventral Capsule/Ventral Striatum Deep Brain Stimulation in Major Depression. Neuropsychopharmacology, pp. S164–S164.
+
+
+# Selected Abstracts
+* K. E. Link, A. Abid, A. Ezerzer, J. Ren. (2022, August) Lessons learned from peer-to-peer education: an international trend in medical AI. Association for Medical Education in Europe Conference.
+* K. E. Link, A. Abid, A. Ezerzer, J. Ren. (2022, August) Empowering medical students with peer-to-peer learning: case studies in medical AI education. Association for Medical Education in Europe (AMEE) Conference.
+* K. Link, R. Gala, J. Gornet, S. Kinn, R.C. Reid, S. Sorensen, U. Sumbul. (2018, December) Machine Learning Techniques for the Automatic Segmentation of Sparse and Dense Neurites. Allen Institute Showcase Symposium.
+* K. Link, K. Hirokawa, N. Graddis, B. MacLennan, C. Lee, S. Chatterjee, S. Sorensen, J. Harris (2018, July) Moving towards the Single Cell Projectome: A Multi-Modal Approach to Assessing Single-Cell Morphology and Connectivity for Classification of Layer 2/3 Neurons in Mouse V1. Computational Neuroscience Society Conference.					
+
+
+# Patents
+## Issued
+* US20210391039A1 - Data analytic approach to personalized questionnaire developments
+
+## Filed
+* US20210391086A1 - Latent Factor Structuring of Psychopathology
+* US20210383936A1 - Network Architecture In Psychopathological Symptomatology
+* US20220068476A1 - Resampling EEG Trial Data

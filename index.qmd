@@ -1,0 +1,13 @@
+---
+title: "Hi! I'm Katie."
+image: profile.jpg
+about:
+  template: jolla
+
+---
+
+I am a **machine learning engineer**, **researcher**, and **medical student** working on machine learning for health.
+
+I currently lead healthcare & life sciences applications of artificial intelligence at [Hugging Face](https://huggingface.co), a machine learning startup.
+
+For more about me, check out my [bio](bio.html).
