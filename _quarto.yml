@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Katie Link"
+  google-analytics: 
+    tracking-id: "G-K9K97V01PZ"
+    storage: "none"
   navbar:
     left:
       - text: "bio"
@@ -14,6 +17,7 @@ website:
         file: talks.qmd
       - text: "media"
         file: media.qmd
+
 format:
   html:
     theme:
